@@ -40,19 +40,20 @@ Numpy & Pandas for the win! 🐼
 🐍 Python, Scikit-learn, PyTorch, OpenCV, TensorFlow - my trusty tools
 
 What I've done so far:
-JOVIAN DATA SCIENCE BOOTCAMP
-500+ hours of coursework 📚
-Cracked 10 coding assignments 🔓
-Delivered 3 impactful projects:
-Web scraping 🕸️
-Exploratory Data Analysis (EDA) 📊
-Machine Learning models 🤖
-Internships that shaped me:
+- JOVIAN DATA SCIENCE BOOTCAMP
+- 500+ hours of coursework 📚
+- Cracked 10 coding assignments 🔓
+- Delivered 3 impactful projects:
+- Web scraping 🕸️
+- Exploratory Data Analysis (EDA) 📊
+- Machine Learning models 🤖
 
+
+Internships that shaped me:
 🇸🇬 National University of Singapore:
-Deep Learning multilabel classification on NIH X-ray Dataset 🏥
-I was the Team Leader for my research group 💪
-Amazon Web Services:
-Data analytics using Deep Learning 🚀
-Worked on real-world datasets 💼
-My quest continues to conquer the data science and AI world, especially in the realm of biotech! 🚀 I can't wait to unlock new insights and create magic with data! 🌟
+ - Deep Learning multilabel classification on NIH X-ray Dataset 🏥
+ - I was the Team Leader for my research group 💪
+- Amazon Web Services:
+ - Data analytics using Deep Learning 🚀
+ - Worked on real-world datasets 💼
+
