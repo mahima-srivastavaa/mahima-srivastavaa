@@ -29,15 +29,15 @@ My data science approach:
 🐍 Python, Scikit-learn, PyTorch, OpenCV, TensorFlow - my trusty tools
 Challenges? Yes, but I embrace 'em! 🏋️‍♀️
 
-Skills 
+##Skills 
 
-SQL 🗄️
-Microsoft Excel 📊
-Tableau 📊
-Data Analysis & Visualization 📈
-Machine Learning 🤖
-Numpy & Pandas for the win! 🐼
-🐍 Python, Scikit-learn, PyTorch, OpenCV, TensorFlow - my trusty tools
+- SQL 🗄️
+- Microsoft Excel 📊
+- Tableau 📊
+- Data Analysis & Visualization 📈
+- Machine Learning 🤖
+- Numpy & Pandas for the win! 🐼
+- 🐍 Python, Scikit-learn, PyTorch, OpenCV, TensorFlow 
 
 What I've done so far:
 - JOVIAN DATA SCIENCE BOOTCAMP
@@ -49,10 +49,13 @@ What I've done so far:
 - Machine Learning models 🤖
 
 
-Internships that shaped me:
+##Internships that shaped me:
+
 🇸🇬 National University of Singapore:
  - Deep Learning multilabel classification on NIH X-ray Dataset 🏥
  - I was the Team Leader for my research group 💪
+
+
 🗃 Amazon Web Services:
  - Data analytics using Deep Learning 🚀
  - Worked on real-world datasets 💼
