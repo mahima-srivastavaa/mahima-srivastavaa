@@ -53,7 +53,7 @@ Internships that shaped me:
 🇸🇬 National University of Singapore:
  - Deep Learning multilabel classification on NIH X-ray Dataset 🏥
  - I was the Team Leader for my research group 💪
-- Amazon Web Services:
+🗃 Amazon Web Services:
  - Data analytics using Deep Learning 🚀
  - Worked on real-world datasets 💼
 
