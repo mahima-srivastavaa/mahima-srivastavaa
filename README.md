@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
  I'm Mahima Srivastava, a final year student pursuing integrated MSc in Biotechnology at VIT Vellore and a certified AI healthcare Enthusiast. 🌱 Data science got me hooked because there's so much untapped potential in all that unstructured bio data! 🧬💻
 
 Projects I've worked on: (ALL ARE AVAILABLE ON MY GITHUB)
@@ -29,7 +29,7 @@ My data science approach:
 🐍 Python, Scikit-learn, PyTorch, OpenCV, TensorFlow - my trusty tools
 Challenges? Yes, but I embrace 'em! 🏋️‍♀️
 
-##Skills 
+## Skills 
 
 - SQL 🗄️
 - Microsoft Excel 📊
@@ -49,7 +49,7 @@ What I've done so far:
 - Machine Learning models 🤖
 
 
-##Internships that shaped me:
+## Internships that shaped me:
 
 🇸🇬 National University of Singapore:
  - Deep Learning multilabel classification on NIH X-ray Dataset 🏥
